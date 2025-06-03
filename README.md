@@ -1,5 +1,5 @@
 # Predictive Model for Recommending Smart and Ultra Plans for Megaline
-![]([600%2C400&ssl=1](https://mobile.everyday.com.au/medias/Banner-EDMobile-HomePage-Jen-3-halfprice-Tablet-768x322.png?context=bWFzdGVyfEV2ZXJ5ZGF5IE1vYmlsZV9Ib21lcGFnZSBNYWluIEltYWdlc3wxNzUwMzl8aW1hZ2UvcG5nfEV2ZXJ5ZGF5IE1vYmlsZV9Ib21lcGFnZSBNYWluIEltYWdlcy9oNjAvaDhkLzg5NTYxMjY1NjAyODYucG5nfDE0YzBiYjg2YzUwMWY3OTljYzJkOTdmMTVkYWJhZDg0NTQwYzhiMzQ1Yzg0YzA5NGRjNThhYTU5MGNiNDY1NjM))
+![](https://content.vodafone.co.nz/dims4/default/a532f4d/2147483647/strip/true/crop/3840x640+0+0/resize/4720x786!/format/webp/quality/100/?url=http%3A%2F%2Fvodafonenz-brightspot.s3.amazonaws.com%2F0e%2Fb8%2Fb3ca7c114ae1badc75886388956f%2Focs00307-mobile-plans-1920x320-2x.jpg)
 
 ## Project Overview:
 The next project consists of the development of a model that can analyse customer behaviour in the use of legacy plans in order to be able to offer them the new Megaline plans: Smart or Ultra.
